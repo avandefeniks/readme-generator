@@ -24,6 +24,6 @@
  (tests variable)
  
  ### Questions<a name="questions"></a> ###
- For further questions please contact me at the following:
- (link to github profile)
- (email)
+ For further questions please contact me at the following:<br>
+ [GitHub](https://github.com/avandefeniks)<br>
+ [email address](mailto:angel.vandefeniks@gmail.com)
