@@ -28,8 +28,11 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title} 
   ${renderLicenseBadge(data.license)}
+  ![](./assets/images/TuneBlastHeroCopy.jpg)
+
   ## Description ##
 ${data.description}
+![](./assets/images/Lyrics.jpg)
 
   ### Table of Contents ###
   * [Installation](#install) 
