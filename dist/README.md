@@ -1,7 +1,11 @@
-# Tune Blast 1.0 
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+# Tune Blast 
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  ![](./assets/images/TuneBlastHeroCopy.jpg)
+
   ## Description ##
-Looks up lyrics to your favorite band or artist
+Search for lyrics
+
+![](./assets/images/Lyrics.jpg)
 
   ### Table of Contents ###
   * [Installation](#install) 
@@ -17,17 +21,20 @@ Looks up lyrics to your favorite band or artist
  ### Usage<a name="usage"></a> ###
  usage
  
- ### License<a name="license"></a> ###
- 
- 
- ### Contributing<a name="contribute"></a> ###
- contribution
+### License<a name="license"></a> ###
+[MIT](https://opensource.org/licenses/MIT)<br>
+  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), 
+  to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, 
+  and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+  ### Contributing<a name="contribute"></a> ###
+ contribute
  
  ### Tests<a name="tests"></a> ###
- testing 
+ testing
  
  ### Questions<a name="questions"></a> ###
  For further questions please contact me at the following:<br>
- [GitHub](https://github.com/test)<br>
- [test@test.com](mailto:test@test.com)
+ [GitHub](https://github.com/avandefeniks)<br>
+ [angel.vandefeniks@gmail.com](mailto:angel.vandefeniks@gmail.com)
 
