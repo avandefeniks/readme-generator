@@ -74,8 +74,6 @@ ${data.description}
   * [Installation](#install) 
   * [Usage](#usage) 
   ${renderLicenseTableOfContents(data.license)}
-  * [Contributing](#contribute)
-  * [Tests](#tests)
   * [Questions](#questions)
 
  ### Installation<a name="install"></a> ###
@@ -86,12 +84,6 @@ ${data.description}
  
 ${renderLicenseSection(data.license)}
 ${renderLicenseLink(data.license)}
-
-  ### Contributing<a name="contribute"></a> ###
- ${data.contribute}
- 
- ### Tests<a name="tests"></a> ###
- ${data.tests}
  
  ### Questions<a name="questions"></a> ###
  For further questions please contact me at the following:<br>
