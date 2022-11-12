@@ -74,34 +74,34 @@ const questions = questionData => {
             choices: ['ISC', 'MIT', 'GNU'],
             when: ({ confirmLicense }) => confirmLicense
         },
-        {
-            type: 'input',
-            name: 'contribute',
-            message: 'How can people contribute to your project? (Required)',
-            validate: contributeInput => {
-                if (contributeInput) {
-                    return true;
-                }
-                else {
-                    console.log('Please enter contribution instructions!');
-                    return false;
-                }
-            }
-        },
-        {
-            type: 'input',
-            name: 'tests',
-            message: 'How to run tests on your project: (Required)',
-            validate: testsInput => {
-                if (testsInput) {
-                    return true;
-                }
-                else {
-                    console.log('Please enter test instructions!');
-                    return false;
-                }
-            }
-        },
+        // {
+        //     type: 'input',
+        //     name: 'contribute',
+        //     message: 'How can people contribute to your project? (Required)',
+        //     validate: contributeInput => {
+        //         if (contributeInput) {
+        //             return true;
+        //         }
+        //         else {
+        //             console.log('Please enter contribution instructions!');
+        //             return false;
+        //         }
+        //     }
+        // },
+        // {
+        //     type: 'input',
+        //     name: 'tests',
+        //     message: 'How to run tests on your project: (Required)',
+        //     validate: testsInput => {
+        //         if (testsInput) {
+        //             return true;
+        //         }
+        //         else {
+        //             console.log('Please enter test instructions!');
+        //             return false;
+        //         }
+        //     }
+        // },
         {
             type: 'input',
             name: 'github',
